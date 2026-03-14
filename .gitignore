@@ -1,0 +1,33 @@
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.suo
+
+# Build folders
+x64/
+Debug/
+Release/
+build/
+
+External/SFML/
+
+
+# Object files
+*.obj
+*.log
+*.pch
+*.pdb
+*.ilk
+*.tlog
+
+# Visual Studio cache
+*.VC.db
+*.opendb
+
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+
+# SFML binaries
+*.dll
