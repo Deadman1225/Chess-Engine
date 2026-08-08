@@ -20,7 +20,7 @@ private:
     int srcRow = -1, srcCol = -1;
     Piece Check_Piece;
 
-    std::map<std::string, sf::Texture> textures;
+    std::map<std::string, sf::Texture> texture;
     std::map<std::string, sf::Sprite> sprites;
 
     void loadGraphics() {
